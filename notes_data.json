@@ -1,0 +1,10 @@
+{
+    "data":{
+        "text":"Something",
+        "tags":["kazkas", "test"]
+    },
+    "testavimas": {
+        "text":"aprasytas tekstas kazkoks testavimui",
+        "tags":["ilgas", "tekstas"]
+    }
+}
